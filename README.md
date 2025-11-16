@@ -11,7 +11,7 @@
   <a href="mailto:ashokkumar.cs22@bitsathy.ac.in">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://lnkd.in/gd758Z9t" target="_blank">
+  <a href="https://69002cdec79ae0b11b5510a2--leafy-daffodil-9f4939.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">
