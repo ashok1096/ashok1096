@@ -5,11 +5,14 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/ashokkumar1615" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR.EMAIL@gmail.com">
+  <a href="mailto:ashokkumar.cs22@bitsathy.ac.in">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://lnkd.in/gd758Z9t" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -17,7 +20,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Aspiring+Software+Engineer;Building+Innovative+Solutions;Learning+%26+Growing+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Python+Developer+%7C+ML+Enthusiast;UI%2FUX+Designer+%7C+Cybersecurity+Explorer;IoT+%26+Cloud+Computing+Learner" alt="Typing SVG" />
 </div>
 
 ---
@@ -28,47 +31,58 @@ Computer Science and Engineering student at **Bannari Amman Institute of Technol
 
 **Education:** B.E in Computer Science and Engineering  
 **Institution:** Bannari Amman Institute of Technology  
-**Focus Areas:** Software Development • Problem Solving • Web Technologies  
-**Approach:** Continuous learning and hands-on project building
+**Focus Areas:** Machine Learning • Cybersecurity • UI/UX Design • IoT  
+**Approach:** Building intelligent and secure solutions with great design
 
 ---
 
 ## 💼 Technical Arsenal
 
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 💻 Programming Language
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🗄️ Database & Backend
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🤖 Machine Learning & Data Science
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🎨 Design & Creative
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
+### 🔒 Cybersecurity
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=security&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
+### ☁️ Cloud & IoT
+![Cloud](https://img.shields.io/badge/Cloud_Computing-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=internet-of-things&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ### 🛠️ Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 ## 🎯 Current Focus
 
-🎓 **Studying:** Core Computer Science fundamentals and advanced topics  
-💻 **Building:** Web applications and personal projects  
-📚 **Learning:** Full-stack development and software engineering best practices  
-🤝 **Exploring:** Open-source contributions and collaborative coding  
-🏆 **Preparing:** For technical interviews and competitive programming
+🤖 **Learning:** Machine Learning algorithms and model development  
+🔒 **Exploring:** Cybersecurity concepts and ethical hacking  
+🎨 **Designing:** User interfaces and experiences with Figma  
+☁️ **Building:** IoT projects and cloud-based solutions  
+💻 **Coding:** Python projects and web applications  
+📊 **Analyzing:** Data using Python libraries (NumPy, Pandas, Scikit-Learn)
 
 ---
 
@@ -99,20 +113,25 @@ Computer Science and Engineering student at **Bannari Amman Institute of Technol
 
 ## 💡 Featured Projects
 
-### 🌐 Project Name 1
-Brief description of your project - what it does and why it's useful. Highlight the key features and technologies used.
+### 🤖 Machine Learning Project
+AI-powered solution using Python and ML libraries. Developed predictive models with data preprocessing and analysis.
 
-**Tech Stack:** HTML, CSS, JavaScript, React
+**Tech Stack:** Python, Scikit-Learn, Pandas, NumPy, Jupyter Notebook
 
-### 📱 Project Name 2
-Brief description of your second project. Explain the problem it solves and your approach to building it.
+### 🎨 UI/UX Design Project
+Modern and intuitive user interface designs created with attention to user experience and visual aesthetics.
 
-**Tech Stack:** Python, Flask, MongoDB
+**Tech Stack:** Figma, Photoshop
 
-### 🎯 Project Name 3
-Description of another project you're proud of. Share what you learned while building it.
+### 🔒 Cybersecurity Project
+Security-focused project exploring ethical hacking concepts and network security fundamentals.
 
-**Tech Stack:** Node.js, Express, MySQL
+**Tech Stack:** Python, Kali Linux
+
+### 🌐 IoT Smart System
+Internet of Things project integrating sensors and cloud connectivity for real-world applications.
+
+**Tech Stack:** Python, Arduino/Raspberry Pi, Cloud Platform
 
 *Explore more in my pinned repositories below*
 
@@ -140,8 +159,9 @@ I'm always open to discussing new projects, learning opportunities, or connectin
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR.EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashokkumar1615)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashokkumar.cs22@bitsathy.ac.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lnkd.in/gd758Z9t)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME)
 
 </div>
