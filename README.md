@@ -7,7 +7,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashokkumar1615)
-[![Portfolio](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd.in%2Fgd758Z9t&urlhash=1nSB&mt=e-Uy3OoxugbHYT_ixs5NfpVZ9Kg3OMKPDPTuZofulmmMZ-ayeFEQE12nWT_F0wBDBK3ulTzhfvsgua-afdPRuIRJjrSnr-Pq65JqNAvOYyPMicFEo5_sIHzdsZ8&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BZo4bQ0bdTrulpqkaSfxruQ%3D%3D)L)
+[![Portfolio]([![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashokkumar.cs22@bitsathy.ac.in)
 
 </div>
