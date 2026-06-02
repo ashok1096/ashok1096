@@ -1,6 +1,7 @@
-# <div align="center">🚀 Ashok Kumar P </div>
+# <div align="center"><img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/6413feb7-b62f-449c-85af-3b36001e649d" />
+Ashok Kumar P </div>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=0:0F2027,50:203A43,100:2C5364&text=ASHOK%20KUMAR&fontSize=70&fontColor=00F5FF&animation=scaleIn&desc=👾%20DevOps%20|%20Linux%20|%20Cloud%20|%20FastAPI%20|%20GenAI&descAlignY=62&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=ASHOK%20KUMAR&fontSize=80&fontColor=ffffff&animation=twinkling&color=0:00F5FF,20:3B82F6,40:6366F1,60:A855F7,80:EC4899,100:F97316&desc=🚀%20DevOps%20Engineer%20%20•%20%20🐧%20Linux%20%20•%20%20🤖%20Generative%20AI%20%20•%20%20⚡%20FastAPI&descAlignY=62&descSize=22"/>
 </div>
 </section>
 
@@ -18,7 +19,7 @@
 
 ---
 
-# 👨‍💻 About Me 
+# 👨‍💻 About Myself >>
 
 ```yaml
 Name: Ashok Kumar
