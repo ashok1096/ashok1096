@@ -1,58 +1,7 @@
 # <div align="center">🚀 Ashok Kumar P </div>
-
-<section class="relative overflow-hidden bg-gradient-to-br from-indigo-950 via-slate-900 to-cyan-950 min-h-screen flex items-center justify-center">
-
-  <!-- Background Blur Effects -->
-  <div class="absolute top-20 left-20 w-72 h-72 bg-cyan-500/20 rounded-full blur-3xl"></div>
-  <div class="absolute bottom-20 right-20 w-96 h-96 bg-purple-500/20 rounded-full blur-3xl"></div>
-
-  <div class="relative z-10 text-center px-6">
-
-    <h1 class="text-6xl md:text-8xl font-extrabold bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-500 bg-clip-text text-transparent animate-pulse">
-      ASHOK KUMAR
-    </h1>
-
-    <div class="mt-6 flex flex-wrap justify-center gap-3">
-      <span class="px-4 py-2 rounded-full bg-cyan-500/10 border border-cyan-400 text-cyan-300">
-        🚀 DevOps
-      </span>
-
-      <span class="px-4 py-2 rounded-full bg-purple-500/10 border border-purple-400 text-purple-300">
-        🐧 Linux
-      </span>
-
-      <span class="px-4 py-2 rounded-full bg-blue-500/10 border border-blue-400 text-blue-300">
-        🤖 Gen AI
-      </span>
-
-      <span class="px-4 py-2 rounded-full bg-green-500/10 border border-green-400 text-green-300">
-        ⚡ FastAPI
-      </span>
-
-      <span class="px-4 py-2 rounded-full bg-orange-500/10 border border-orange-400 text-orange-300">
-        📮 Postman
-      </span>
-
-      <span class="px-4 py-2 rounded-full bg-red-500/10 border border-red-400 text-red-300">
-        🌿 Git
-      </span>
-    </div>
-
-    <p class="mt-8 text-xl md:text-2xl text-slate-300 font-medium">
-      Building Scalable APIs • Automating Workflows • Exploring AI
-    </p>
-
-    <div class="mt-10 flex justify-center gap-4">
-      <a href="#" class="px-6 py-3 rounded-xl bg-cyan-500 hover:bg-cyan-400 text-black font-bold transition">
-        Portfolio
-      </a>
-
-      <a href="#" class="px-6 py-3 rounded-xl border border-cyan-500 text-cyan-400 hover:bg-cyan-500 hover:text-black transition">
-        GitHub
-      </a>
-    </div>
-
-  </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=0:0F2027,50:203A43,100:2C5364&text=ASHOK%20KUMAR&fontSize=70&fontColor=00F5FF&animation=scaleIn&desc=👾%20DevOps%20|%20Linux%20|%20Cloud%20|%20FastAPI%20|%20GenAI&descAlignY=62&descSize=20"/>
+</div>
 </section>
 
 <div align="center">
