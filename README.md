@@ -74,6 +74,7 @@ Passion:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MangoDB]![Postman](https://img.shields.io/badge/mangodb/MangoDB-000000?style=for-the-badge&logo=MangoDB&logoColor=white)
 
 ---
 
