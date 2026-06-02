@@ -102,18 +102,17 @@ Passion:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashok1096&show_icons=true&theme=tokyonight&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashokkumar1615&layout=compact&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashokkumar1615&theme=tokyonight"/>
 
 </div>
-
 ---
 
 # 🏆 DevOps Learning Journey
@@ -131,7 +130,7 @@ Passion:
 🔄 Kubernetes
 🔄 Terraform
 
-🎯 Goal → Become a DevOps & Cloud Engineer
+🎯 Goal → Become a Well Knowledgeble Cloud Engineer
 ```
 
 ---
@@ -139,13 +138,13 @@ Passion:
 
 ---
 
-# 💡 Philosophy
+# 💡 Philosophy >>
 
-> "Automate Everything. Learn Every Day. Build Without Limits." "If You Update Yourself Today You Been Outdated Tomorrow" >>
+> "Automate Everything. Learn Every Day. Build Without Limits." "If You cant Updating  Yourself Today You Been Outdated Tomorrow" >>
 
 ---
 
-# 📫 Connect With Me
+# 📫 Connect With Me >>
 
 <div align="center">
 
@@ -153,7 +152,7 @@ Passion:
 
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashokkumar.cs22@bitsathy.ac.in)
 
-[![Portfolio](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd.in%2Fgd758Z9t&urlhash=1nSB&mt=e-Uy3OoxugbHYT_ixs5NfpVZ9Kg3OMKPDPTuZofulmmMZ-ayeFEQE12nWT_F0wBDBK3ulTzhfvsgua-afdPRuIRJjrSnr-Pq65JqNAvOYyPMicFEo5_sIHzdsZ8&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BZo4bQ0bdTrulpqkaSfxruQ%3D%3D)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://69002cdec79ae0b11b5510a2--leafy-daffodil-9f4939.netlify.app/)
 
 </div>
 
@@ -161,9 +160,9 @@ Passion:
 
 <div align="center">
 
-### 👾 DevOps | Linux | GenAI | FastAPI | Postman | Git
+### 👾 DevOps | Linux | GenAI | FastAPI | Postman | Git | React | Cloud 
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=ashok1096&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
