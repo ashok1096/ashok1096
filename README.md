@@ -1,183 +1,176 @@
-# <div align="center">👋 Hi, I'm Ashok Kumar</div>
+# <div align="center">🚀 Ashok Kumar</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Ashok%20Kumar&fontSize=80&fontAlignY=35&animation=twinkling&desc=Aspiring%20Software%20Engineer%20|%20CSE%20Student%20|%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=ASHOK%20KUMAR&fontAlign=50&fontAlignY=38&color=0:6A11CB,50:2575FC,100:00F5FF&fontColor=ffffff&fontSize=65&animation=fadeIn&desc=DevOps%20Engineer%20|%20Linux%20Enthusiast%20|%20GenAI%20Explorer&descAlignY=58&descSize=20" width="100%">
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ashokkumar1615" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ashokkumar.cs22@bitsathy.ac.in">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://69002cdec79ae0b11b5510a2--leafy-daffodil-9f4939.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashokkumar1615)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashokkumar.cs22@bitsathy.ac.in)
+
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Python+Developer+%7C+ML+Enthusiast;UI%2FUX+Designer+%7C+Cybersecurity+Explorer;IoT+%26+Cloud+Computing+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer+🚀;Linux+%7C+Git+%7C+Docker+%7C+CI%2FCD;FastAPI+Backend+Developer+⚡;Postman+API+Testing+🔥;Generative+AI+Explorer+🤖;Always+Learning+New+Technologies+👾"/>
 </div>
 
 ---
 
-## About Me
+# 👨‍💻 About Me
 
-Computer Science and Engineering student at **Bannari Amman Institute of Technology, Sathyamangalam**, passionate about building software solutions and learning new technologies.
+```yaml
+Name: Ashok Kumar
+Role: Aspiring DevOps Engineer
 
-**Education:** B.E in Computer Science and Engineering  
-**Institution:** Bannari Amman Institute of Technology  
-**Focus Areas:** Machine Learning • Cybersecurity • UI/UX Design • IoT  
-**Approach:** Building intelligent and secure solutions with great design
+Education:
+  Degree: B.E Computer Science Engineering
+  College: Bannari Amman Institute of Technology
+
+Current Focus:
+  - Linux Administration
+  - Git & GitHub
+  - FastAPI Development
+  - API Testing with Postman
+  - Docker & CI/CD
+  - Generative AI
+  - Cloud Computing
+
+Passion:
+  - Automation
+  - Backend Development
+  - Cloud Technologies
+  - Open Source
+```
 
 ---
 
-## 💼 Technical Arsenal
+# 🛠️ Tech Stack
 
-### 💻 Programming Language
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 👾 DevOps
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🤖 Machine Learning & Data Science
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 🎨 Design & Creative
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-
-### 🔒 Cybersecurity
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=security&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-
-### ☁️ Cloud & IoT
-![Cloud](https://img.shields.io/badge/Cloud_Computing-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=internet-of-things&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
-### 🛠️ Tools & Technologies
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🎯 Current Focus
+## 🐧 Linux & Cloud
 
-🤖 **Learning:** Machine Learning algorithms and model development  
-🔒 **Exploring:** Cybersecurity concepts and ethical hacking  
-🎨 **Designing:** User interfaces and experiences with Figma  
-☁️ **Building:** IoT projects and cloud-based solutions  
-💻 **Coding:** Python projects and web applications  
-📊 **Analyzing:** Data using Python libraries (NumPy, Pandas, Scikit-Learn)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
+## ⚡ Backend Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🤖 Generative AI
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00F5FF?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+
+---
+
+# 🚀 Current Focus
+
+- 🐧 Linux Administration
+- 🌿 Git & GitHub Workflows
+- 🐳 Docker Containers
+- ⚙️ CI/CD Pipelines
+- ⚡ FastAPI Development
+- 📮 Postman API Testing
+- 🤖 Generative AI
+- ☁️ Cloud Computing
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight" alt="GitHub Streak"/>
-</div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
 
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-## 💡 Featured Projects
-
-### 🤖 Machine Learning Project
-AI-powered solution using Python and ML libraries. Developed predictive models with data preprocessing and analysis.
-
-**Tech Stack:** Python, Scikit-Learn, Pandas, NumPy, Jupyter Notebook
-
-### 🎨 UI/UX Design Project
-Modern and intuitive user interface designs created with attention to user experience and visual aesthetics.
-
-**Tech Stack:** Figma, Photoshop
-
-### 🔒 Cybersecurity Project
-Security-focused project exploring ethical hacking concepts and network security fundamentals.
-
-**Tech Stack:** Python, Kali Linux
-
-### 🌐 IoT Smart System
-Internet of Things project integrating sensors and cloud connectivity for real-world applications.
-
-**Tech Stack:** Python, Arduino/Raspberry Pi, Cloud Platform
-
-*Explore more in my pinned repositories below*
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
 
-## 🎓 Philosophy
+# 🏆 DevOps Learning Journey
 
-> *"The only way to do great work is to love what you do."* – Steve Jobs
+```text
+✅ Git & GitHub
+✅ Linux Fundamentals
+✅ FastAPI
+✅ PostgreSQL
+✅ Postman
 
-I'm committed to continuous learning and growth in the field of software engineering. Every project is an opportunity to learn something new and push my boundaries.
+🔄 Docker
+🔄 CI/CD
+🔄 AWS
+🔄 Kubernetes
+🔄 Terraform
+
+🎯 Goal → Become a DevOps & Cloud Engineer
+```
 
 ---
 
-## 📫 Let's Connect!
-
-I'm always open to discussing new projects, learning opportunities, or connecting with fellow developers and tech enthusiasts!
+# 📈 Contribution Graph
 
 <div align="center">
-  
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 💡 Philosophy
+
+> "Automate Everything. Learn Every Day. Build Without Limits."
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashokkumar1615)
+
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashokkumar.cs22@bitsathy.ac.in)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lnkd.in/gd758Z9t)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+### 👾 DevOps | Linux | GenAI | FastAPI | Postman | Git
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet"/>
+
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
-</div>
-
----
-
-<div align="center">
-  <i>⭐ From <a href="https://github.com/YOUR-GITHUB-USERNAME">Ashok Kumar</a> - Learning, Building, Growing</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:6A11CB,50:2575FC,100:00F5FF"/>
 </div>
