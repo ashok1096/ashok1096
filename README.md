@@ -1,7 +1,8 @@
 # <div align="center"><img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/6413feb7-b62f-449c-85af-3b36001e649d" />
 Ashok Kumar P </div>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=ASHOK%20KUMAR&fontSize=80&fontColor=ffffff&animation=twinkling&color=0:00F5FF,20:3B82F6,40:6366F1,60:A855F7,80:EC4899,100:F97316&desc=🚀%20DevOps%20Engineer%20%20•%20%20🐧%20Linux%20%20•%20%20🤖%20Generative%20AI%20%20•%20%20⚡%20FastAPI&descAlignY=62&descSize=22"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:00ff99,50:00c3ff,100:7b2ff7&text=ASHOK%20KUMAR&fontColor=ffffff&fontSize=65&animation=twinkling&stroke=ffffff&strokeWidth=1&desc=Cloud%20Engineer%20•%20Linux%20•%20Generative%20AI%20Explorer&descAlignY=65&descSize=18"/>
+
 </div>
 </section>
 
