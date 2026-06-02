@@ -15,7 +15,7 @@ Ashok Kumar P </div>
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer+🚀;Linux+%7C+Git+%7C+Docker+%7C+CI%2FCD;FastAPI+Backend+Developer+⚡;Postman+API+Testing+🔥;Generative+AI+Explorer+🤖;Always+Learning+New+Technologies+👾"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=950&lines=Software+Developer+💻;Backend+Developer+with+FastAPI+⚡;Python+%7C+PostgreSQL+%7C+SQL+🐍;ETL+Pipelines+and+Data+Engineering+🔄;Docker+%7C+Git+%7C+CI%2FCD+🚀;Problem+Solver+and+Tech+Explorer+🧠;Generative+AI+Learner+🤖;Turning+Ideas+Into+Working+Products+✨"/>
 </div>
 
 ---
@@ -102,7 +102,7 @@ Passion:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashok1096&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashok1615&show_icons=true&theme=tokyonight&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashokkumar1615&layout=compact&theme=tokyonight"/>
 
