@@ -98,25 +98,6 @@ Passion:
 
 ---
 
-# GitHub Analytics
-<img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/749f6aea-8679-4b3c-95d0-78ad26cd8257" />
-
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashok1096&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashok1096&layout=compact&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashok1096&theme=tokyonight"/>
-
-</div>
----
-
 # 🏆 DevOps Learning Journey
 
 ```text
@@ -147,6 +128,8 @@ Passion:
 ---
 
 # 📫 Connect With Me >>
+<div align="center">
+
 <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/3e5addf8-f530-4f4e-ac2e-0aef431ac04b" />
 
 
