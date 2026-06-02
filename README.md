@@ -15,7 +15,7 @@ Ashok Kumar P </div>
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+There!+I'm+Ashok+Kumar;Backend+Developer;Python+%7C+FastAPI+%7C+PostgreSQL;Data+Engineering+and+ETL+Pipelines;Docker+%7C+Git+%7C+CI%2FCD;Building+Scalable+REST+APIs;Exploring+Generative+AI;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+There!+I'm+Ashok+Kumar;Python+%7C+FastAPI+%7C+PostgreSQL;Data+Engineering+and+ETL+Pipelines;Docker+%7C+Git+%7C+CI%2FCD;Building+Scalable+REST+APIs;Exploring+Generative+AI;Always+Learning+New+Technologies"/>
 </div>
 
 ---
@@ -99,18 +99,20 @@ Passion:
 ---
 
 # GitHub Analytics
+<img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/749f6aea-8679-4b3c-95d0-78ad26cd8257" />
+
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashok1096&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashok1096&show_icons=true&theme=tokyonight&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashokkumar1615&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashok1096&layout=compact&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashokkumar1615&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashok1096&theme=tokyonight"/>
 
 </div>
 ---
@@ -145,14 +147,15 @@ Passion:
 ---
 
 # 📫 Connect With Me >>
+<img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/3e5addf8-f530-4f4e-ac2e-0aef431ac04b" />
+
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashokkumar1615)
 
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashokkumar.cs22@bitsathy.ac.in)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://69002cdec79ae0b11b5510a2--leafy-daffodil-9f4939.netlify.app/)
+[![Mobile - (9344958886) ].
 
 </div>
 
