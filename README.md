@@ -9,7 +9,7 @@ Ashok Kumar P </div>
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashokkumar1615)
-[![Live Portfolio](https://img.shields.io/badge/Live-Portfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ashok-portfolio-07.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Live-Portfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ashok-portfolio-07.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashokkumar.cs22@bitsathy.ac.in)
 
 </div>
